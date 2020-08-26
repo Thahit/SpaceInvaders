@@ -2,6 +2,8 @@
 Spaceinvaders game, built with pygames
 originally, I wanted to follow along https://www.youtube.com/watch?v=FfWpgLFMI7w&list=WL&index=20&t=759s , but did not like this version so I switched after like 20 min. but the img are from there.
 
+screenshot:
+![GitHub Logo](Img/Screenshot1.png)
 
 
 Images source
